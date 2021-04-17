@@ -14,10 +14,9 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/tvFirstFragment"
+        android:id="@+id/tvSecondFragment"
         android:textSize="26pt"
         android:textColor="@color/colorAccent"
-        android:text="@string/disini_tampil">
-    </TextView>
+        android:text="@string/disini_tampil"/>
 
 </RelativeLayout>

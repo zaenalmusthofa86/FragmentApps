@@ -15,7 +15,7 @@
         android:text="@string/pencet_tombol" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnSwitchOne"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/tvFirstFragment"
